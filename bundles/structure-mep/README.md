@@ -1,6 +1,6 @@
 # Structure & MEP
 
-Every Structure & MEP tool in one plugin: 18 skills, 7 agents and 5 commands for North American architecture practice.
+Every Structure & MEP tool in one plugin: 18 skills, 7 agents and 5 commands for architecture practice.
 
 ## Skills
 

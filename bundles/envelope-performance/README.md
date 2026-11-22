@@ -1,6 +1,6 @@
 # Envelope
 
-Every Envelope tool in one plugin: 24 skills, 3 agents and 7 commands for North American architecture practice.
+Every Envelope tool in one plugin: 24 skills, 3 agents and 7 commands for architecture practice.
 
 ## Skills
 

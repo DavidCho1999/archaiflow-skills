@@ -1,6 +1,6 @@
 # Claude Code for Architecture
 
-163 skills, 47 agents and 54 commands for architecture work in North America. Browse them at [archaiflow.com/templates](https://archaiflow.com/templates).
+163 skills, 47 agents and 54 commands for architecture work. Browse them at [archaiflow.com/templates](https://archaiflow.com/templates).
 
 ## Install
 

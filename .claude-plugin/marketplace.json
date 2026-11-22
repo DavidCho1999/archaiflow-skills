@@ -11,42 +11,42 @@
     {
       "name": "design-building-types",
       "source": "./bundles/design-building-types",
-      "description": "Every Design tool in one plugin: 36 skills, 19 agents and 1 command for North American architecture practice.",
+      "description": "Every Design tool in one plugin: 36 skills, 19 agents and 1 command for architecture practice.",
       "version": "1.0.0-1f032482d8cc",
       "category": "bundle"
     },
     {
       "name": "code-life-safety",
       "source": "./bundles/code-life-safety",
-      "description": "Every Code & Zoning tool in one plugin: 31 skills, 9 agents and 18 commands for North American architecture practice.",
+      "description": "Every Code & Zoning tool in one plugin: 31 skills, 9 agents and 18 commands for architecture practice.",
       "version": "1.0.0-24a3bcf965d0",
       "category": "bundle"
     },
     {
       "name": "structure-mep",
       "source": "./bundles/structure-mep",
-      "description": "Every Structure & MEP tool in one plugin: 18 skills, 7 agents and 5 commands for North American architecture practice.",
+      "description": "Every Structure & MEP tool in one plugin: 18 skills, 7 agents and 5 commands for architecture practice.",
       "version": "1.0.0-c682f44d0f9d",
       "category": "bundle"
     },
     {
       "name": "envelope-performance",
       "source": "./bundles/envelope-performance",
-      "description": "Every Envelope tool in one plugin: 24 skills, 3 agents and 7 commands for North American architecture practice.",
+      "description": "Every Envelope tool in one plugin: 24 skills, 3 agents and 7 commands for architecture practice.",
       "version": "1.0.0-cdacfa908b4c",
       "category": "bundle"
     },
     {
       "name": "construction-admin",
       "source": "./bundles/construction-admin",
-      "description": "Every Documents & Construction tool in one plugin: 31 skills, 7 agents and 17 commands for North American architecture practice.",
+      "description": "Every Documents & Construction tool in one plugin: 31 skills, 7 agents and 17 commands for architecture practice.",
       "version": "1.0.0-2de30f4c6bfa",
       "category": "bundle"
     },
     {
       "name": "practice-contracts",
       "source": "./bundles/practice-contracts",
-      "description": "Every Business tool in one plugin: 23 skills, 2 agents and 6 commands for North American architecture practice.",
+      "description": "Every Business tool in one plugin: 23 skills, 2 agents and 6 commands for architecture practice.",
       "version": "1.0.0-612dedf7d4b9",
       "category": "bundle"
     },

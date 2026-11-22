@@ -1,6 +1,6 @@
 # Design
 
-Every Design tool in one plugin: 36 skills, 19 agents and 1 command for North American architecture practice.
+Every Design tool in one plugin: 36 skills, 19 agents and 1 command for architecture practice.
 
 ## Skills
 

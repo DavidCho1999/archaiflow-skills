@@ -1,6 +1,6 @@
 # Business
 
-Every Business tool in one plugin: 23 skills, 2 agents and 6 commands for North American architecture practice.
+Every Business tool in one plugin: 23 skills, 2 agents and 6 commands for architecture practice.
 
 ## Skills
 

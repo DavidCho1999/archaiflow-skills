@@ -1,6 +1,6 @@
 # Documents & Construction
 
-Every Documents & Construction tool in one plugin: 31 skills, 7 agents and 17 commands for North American architecture practice.
+Every Documents & Construction tool in one plugin: 31 skills, 7 agents and 17 commands for architecture practice.
 
 ## Skills
 

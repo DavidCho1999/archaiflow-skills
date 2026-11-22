@@ -1,6 +1,6 @@
 # Code & Zoning
 
-Every Code & Zoning tool in one plugin: 31 skills, 9 agents and 18 commands for North American architecture practice.
+Every Code & Zoning tool in one plugin: 31 skills, 9 agents and 18 commands for architecture practice.
 
 ## Skills
 
