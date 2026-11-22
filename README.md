@@ -2,6 +2,8 @@
 
 163 skills, 47 agents and 54 commands for architecture work. Browse them at [archaiflow.com/templates](https://archaiflow.com/templates).
 
+Follow [@arch_ai_lab](https://instagram.com/arch_ai_lab) on Instagram for new tools and short how-to videos.
+
 ## Install
 
 **Claude app (Chat, Cowork, or the Code tab).** Go to Customize > Plugins > Add marketplace and paste:
